@@ -1,0 +1,21 @@
+#firstDiv {
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 20px;
+}
+#secondDiv {
+    border-style: dashed;
+    border-radius: 5px;
+    border-color: red;
+    padding: 20px;
+}
+#thirdDiv {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: green;
+    padding: 25px;
+}
+div {
+    text-align: center;
+}
