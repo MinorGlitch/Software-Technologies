@@ -1,5 +1,7 @@
 Setup instructions for the blogs:
 
+!! The steps for preparing the calculators are pretty much the same, just skip the database part in the instructions.
+
 PHP and Symfony:
 
 1. Pull the project.
