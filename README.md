@@ -10,9 +10,9 @@ PHP and Symfony:
 
 3. Go to the root of the project and open a Command prompt / PowerShell window.
 
-4. Execute ìphp composer.phar installî to restore its Composer dependencies.
+4. Execute ‚Äúphp composer.phar install‚Äù to restore its Composer dependencies.
 
-5. Create the database with ìphp bin/console doctrine:database:create ñ-if-not-existsî command.
+5. Create the database with ‚Äúphp bin/console doctrine:database:create --if-not-exists‚Äù command.
 
 6. All done!
 
@@ -21,9 +21,9 @@ JavaScript and Node.js
 1. Pull the project.
 
 2. Go to the root of the project and open a Command prompt / PowerShell window.
-3. Start your MongoDB instance with the ìmongod.exe ñdbpath path/to/dbdirî command.
+3. Start your MongoDB instance with the ‚Äúmongod.exe --dbpath path/to/dbdir‚Äù command.
 
-4. Run ìnpm installî to resolve its Node.js dependencies which are described in the package.json file.
+4. Run ‚Äúnpm install‚Äù to resolve its Node.js dependencies which are described in the package.json file.
 
 5. All done!
 
