@@ -1,0 +1,46 @@
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\ApplicationInsights.config
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\TODO List.dll.config
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\TODO List.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\TODO List.pdb
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Antlr3.Runtime.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\EntityFramework.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\EntityFramework.SqlServer.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.Web.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Newtonsoft.Json.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Helpers.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Mvc.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Optimization.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Razor.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.WebPages.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.WebPages.Razor.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\WebGrease.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\EntityFramework.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\EntityFramework.SqlServer.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Helpers.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Mvc.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Optimization.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.Razor.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.WebPages.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\System.Web.WebPages.Razor.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Antlr3.Runtime.pdb
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Newtonsoft.Json.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.ApplicationInsights.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\bin\Microsoft.AI.Web.xml
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\obj\Debug\TODO List.csprojResolveAssemblyReference.cache
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\obj\Debug\TODO List.csproj.CoreCompileInputs.cache
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\obj\Debug\TODO List.dll
+C:\GitHub Repositories\Software-Technologies\CS - ASP.NET MVC Overview\TODO List\obj\Debug\TODO List.pdb
